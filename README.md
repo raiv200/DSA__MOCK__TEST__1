@@ -2,10 +2,11 @@
 
 ### Solution Submited by Vikas Rai
 
-Q1. Move Zeroes (LeetCode)
+### My Approach
 
- ### My Approach
- Given Array = [0,1,0,3,12]
+Q1. Move Zeroes (LeetCode)
+ 
+Given Array = [0,1,0,3,12]
 
 Time Complexity: O(n)
 Space:O(1)
@@ -18,7 +19,7 @@ Space:O(1)
 
  4. After that when the array is traversed, the again create a new while loop with condition while( j < arr.size()), insert value at arr[j] =0;
 
-Q1. First Unique Character in a string (LeetCode)
+Q2. First Unique Character in a string (LeetCode)
 
 Time Complexity: O(n)
 Space:O(1)
